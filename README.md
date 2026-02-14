@@ -1,3 +1,19 @@
+🌙 Hi 👋, I'm Kriss Khanna
+
+A Data Science Student || AI/ML Developer || Quant & Automation Enthusiast from India 🇮🇳
+
+Email Me 👉 📩 your-email-here For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 I’m currently working on: GeoLLM (Delhi Prototype), RAG Pipelines, AI Automation & Financial Allocation Models  
+- 🌱 I’m currently learning: LLM Fine-Tuning, LangChain, Ollama, Advanced ML, Quantitative Finance  
+- 👯 I’m looking to collaborate on: AI Agents, LLM Apps, RAG Systems, Quant Trading & Automation Projects  
+- 🤔 I’m looking for help with: Building a Scalable AI Orchestration System + Multi-Market Trading Engine  
+- 💬 Ask me about: AI/ML, LLMs, RAG, Python, DSA, Finance, Hackathons  
+- 📫 How to reach me: your-email-here  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love building smart systems that think, automate, and scale 🚀  
+
+
 # 💫 About Me:
 I am a dual-degree student currently pursuing a BS in Data Science from IIT Madras alongside a BCA (Hons.) from GGSIPU. My academic journey is driven by a deep fascination with how data can be transformed into actionable intelligence, particularly at the intersection of technology and finance.<br><br>🚀 Technical Expertise<br>I specialize in building end-to-end AI solutions and solving complex problems using:<br><br>Core AI/ML: Machine Learning (ML), Deep Learning (DL), Large Language Models (LLMs), and Computer Vision.<br><br>Mathematics: Strong foundation in Linear Algebra, Calculus, and Statistics, which I leverage to build robust and optimized models.<br><br>Programming & Logic: Python and Data Structures & Algorithms (DSA).<br><br>Finance & Analytics: Technical, Fundamental, and Financial Analysis for data-driven market insights.<br><br>📝 Current Research<br>I am currently authored a research paper focused on AI Automation and Pattern Recognition in Deep Learning, exploring how automated systems can identify and optimize complex data structures more efficiently.<br><br>💡 The Goal<br>I thrive on participating in hackathons and building "smart" systems—like my recent work on RAG pipelines and financial allocation models. Whether it’s optimizing a database or fine-tuning an LLM, I am committed to leveraging AI to solve real-world challenges.<br><br>Let’s connect! I’m always open to discussing AI research, quantitative finance, or the next big thing in LLMs.I am a dual-degree student currently pursuing a BS in Data Science from IIT Madras alongside a BCA (Hons.) from GGSIPU. My academic journey is driven by a deep fascination with how data can be transformed into actionable intelligence, particularly at the intersection of technology and finance. 🚀 Technical Expertise I specialize in building end-to-end AI solutions and solving complex problems using: Core AI/ML: Machine Learning (ML), Deep Learning (DL), Large Language Models (LLMs), and Computer Vision. Mathematics: Strong foundation in Linear Algebra, Calculus, and Statistics, which I leverage to build robust and optimized models. Programming & Logic: Python and Data Structures & Algorithms (DSA). Finance & Analytics: Technical, Fundamental, and Financial Analysis for data-driven market insights. 📝 Current Research I am currently authored a research paper focused on AI Automation and Pattern Recognition in Deep Learning, exploring how automated systems can identify and optimize complex data structures more efficiently. 💡 The Goal I thrive on participating in hackathons and building "smart" systems—like my recent work on RAG pipelines and financial allocation models. Whether it’s optimizing a database or fine-tuning an LLM, I am committed to leveraging AI to solve real-world challenges. Let’s connect! I’m always open to discussing AI research, quantitative finance, or the next big thing in LLMs.<br>
 
