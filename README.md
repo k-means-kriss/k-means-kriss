@@ -1,4 +1,4 @@
-#🌙 Hi 👋, I'm Kriss Khanna
+🌙 Hi 👋, I'm Kriss Khanna
 
 A Data Science Student || AI/ML Developer || Quant & Automation Enthusiast from India 🇮🇳
 
