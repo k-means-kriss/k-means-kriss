@@ -2,14 +2,14 @@
 
 A Data Science Student || AI/ML Developer || Quant & Automation Enthusiast from India 🇮🇳
 
-Email Me 👉 📩 your-email-here For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 📩 krisskhanna@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 I’m currently working on: GeoLLM (Delhi Prototype), RAG Pipelines, AI Automation & Financial Allocation Models  
 - 🌱 I’m currently learning: LLM Fine-Tuning, LangChain, Ollama, Advanced ML, Quantitative Finance  
 - 👯 I’m looking to collaborate on: AI Agents, LLM Apps, RAG Systems, Quant Trading & Automation Projects  
 - 🤔 I’m looking for help with: Building a Scalable AI Orchestration System + Multi-Market Trading Engine  
 - 💬 Ask me about: AI/ML, LLMs, RAG, Python, DSA, Finance, Hackathons  
-- 📫 How to reach me: your-email-here  
+- 📫 How to reach me: krisskhanna@gmail.com 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love building smart systems that think, automate, and scale 🚀  
 
